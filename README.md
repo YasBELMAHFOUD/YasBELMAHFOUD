@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Yassine 👋
 
-<!--
-**YasBELMAHFOUD/YasBELMAHFOUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile & Fintech Engineer from Morocco 🇲🇦
 
-Here are some ideas to get you started:
+I build:
+- Flutter applications
+- Payment & SoftPOS solutions
+- CI/CD pipelines
+- Kubernetes deployments
+- Receipt & PDF generation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Mobile
+- Flutter
+- Dart
+- Kotlin
+- Java
+
+### Backend & DevOps
+- Kubernetes
+- Docker
+- GitLab CI/CD
+- REST APIs
+
+### Other
+- Python
+- Firebase
+- SQLite
+
+---
+
+## Currently Exploring
+- Deep Learning
+- Cloud-native systems
+- Payment infrastructure
+
+---
+
+## Featured Projects
+- SoftPOS payment solutions
+- Dynamic APK branding pipeline
+- Receipt rendering engine
+- Kubernetes fintech deployments
+
+---
+
+## Connect With Me
+- LinkedIn
+- Email
