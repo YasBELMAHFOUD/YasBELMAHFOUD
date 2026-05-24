@@ -95,17 +95,6 @@ I'm growing beyond mobile into backend/cloud-native — because I already know t
 
 </div>
 
----
-
-## `$ kubectl get stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinebelmahfoud&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=9CA3AF&ring_color=10B981)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinebelmahfoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF&langs_count=8)
-
-</div>
 
 ---
 
