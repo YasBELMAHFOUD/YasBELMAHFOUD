@@ -109,27 +109,6 @@ I'm growing beyond mobile into backend/cloud-native — because I already know t
 
 ---
 
-## `$ cat architecture.mmd`
-
-```mermaid
-graph TD
-    A[Mobile Client<br/>Flutter / Android] -->|EMV Transaction| B[SoftPOS Engine]
-    B -->|Secure Channel| C[Payment Gateway API]
-    C -->|Processing| D[Acquirer / Network]
-    A -->|Receipt Request| E[PDF Generation Service]
-    E -->|Rendered Doc| A
-    F[CI/CD Pipeline<br/>GitLab] -->|Build & Test| G[Docker Image]
-    G -->|Deploy| H[Kubernetes Cluster]
-    H -->|Serves| C
-    style A fill:#0D1117,stroke:#10B981,color:#10B981
-    style B fill:#0D1117,stroke:#3B82F6,color:#3B82F6
-    style C fill:#0D1117,stroke:#06B6D4,color:#06B6D4
-    style D fill:#0D1117,stroke:#6366F1,color:#6366F1
-    style E fill:#0D1117,stroke:#10B981,color:#10B981
-    style F fill:#0D1117,stroke:#F97316,color:#F97316
-    style G fill:#0D1117,stroke:#2496ED,color:#2496ED
-    style H fill:#0D1117,stroke:#326CE5,color:#326CE5
-```
 
 ## `$ cat contact.txt`
 
