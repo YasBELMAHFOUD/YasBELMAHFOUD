@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  YASSINE BELMAHFOUD  ·  Mobile & Fintech Engineer  ·  Morocco 🇲🇦   ║
+║  YASSINE BELMAHFOUD  ·  Mobile & Fintech Developer  ·  Morocco 🇲🇦    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
